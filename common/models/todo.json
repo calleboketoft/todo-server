@@ -1,0 +1,12 @@
+{
+  "name": "Todo",
+  "properties": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "done": {
+      "type": "boolean"
+    }
+  }
+}
