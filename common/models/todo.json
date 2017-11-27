@@ -6,7 +6,8 @@
       "required": true
     },
     "done": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     }
   }
 }
